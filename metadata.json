@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TrustRent",
+  "description": "Escrow-based rental management platform with AI-driven insights and credit scoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
