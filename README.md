@@ -93,3 +93,26 @@ TrustRent acts as a "Credit Karma for Renters."
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/11CXbhTfTZZFPP0Vb3fBt7D_WFMSPyUfO
+---
+
+## 🔮 Future Roadmap
+*   [ ] **Blockchain Integration:** Smart contracts for automated security deposit refunds.
+*   [ ] **Bank API Sync:** Real-time connection via Plaid/Stripe Connect.
+*   [ ] **Marketplace:** Match high-score tenants with premium listings.
+
+---
+
+## 🤝 Contributing
+This project was built for a hackathon. Suggestions and pull requests are welcome!
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+---
+
+**License:** MIT
+
+**Built with ❤️** by **Arshiya Sana**
