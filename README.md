@@ -92,7 +92,7 @@ TrustRent acts as a "Credit Karma for Renters."
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/11CXbhTfTZZFPP0Vb3fBt7D_WFMSPyUfO?fullscreenApplet=true
+View your app in AI Studio: https://aistudio.google.com/apps/drive/11CXbhTfTZZFPP0Vb3fBt7D_WFMSPyUfO?showAssistant=true&showPreview=true&fullscreenApplet=true
 ---
 
 ## 🔮 Future Roadmap
